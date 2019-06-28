@@ -13,8 +13,6 @@ public class Item {
 	private Integer number;
 }
 
-<<<<<<< HEAD
+
 //修改55555
-=======
-//修改333333
->>>>>>> branch 'master' of https://github.com/liuxl123/sp_repo.git
+
